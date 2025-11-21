@@ -24,7 +24,6 @@ public class Anggota {
         this.nama = nama; this.alamat = alamat; this.telepon = telepon;
     }
 
-    // getters & setters
     public int getIdanggota() { return idanggota; }
     public void setIdanggota(int idanggota) { this.idanggota = idanggota; }
     public String getNama() { return nama; }
